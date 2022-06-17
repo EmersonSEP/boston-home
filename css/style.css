@@ -9,6 +9,8 @@ body {
 h1 {
   text-align: center;
   padding: 20px;
+  color: green;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .card {
