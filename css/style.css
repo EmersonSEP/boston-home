@@ -2,7 +2,15 @@ body {
   background-color: rgb(236, 248, 235);
 }
 
+.nav-link {
+  color: white;
+}
+
 h1 {
   text-align: center;
   padding: 20px;
+}
+
+.card {
+  margin: 1rem;
 }
